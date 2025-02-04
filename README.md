@@ -1,8 +1,33 @@
-# React + Vite
+# Shoes E-commerce 👟🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple e-commerce project built with **React.js**, featuring an item filter system for easy product selection. This project demonstrates efficient state management and UI responsiveness.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Item Filtering** – Filter shoes based on categories, price, and brands.
+- ⚡ **Fast & Responsive UI** – Built with React.js for a smooth user experience.
+- 🎨 **Reusable Components** – Modular design with components like `Card`, `Button`, and `Input`.
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, CSS  
+- **State Management:** useState, useEffect  
+- **Routing (if applicable):** React Router  
+
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sagargautam500/shoes_ecommerce.git
+   cd shoes_ecommerce
+
+2. **Install dependencies:(if needed )**
+    ```bash
+       npm install
+
+3. **Run the development server:**
+    ```bash
+        npm run dev
+
+
